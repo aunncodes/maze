@@ -1,5 +1,3 @@
-# Hackathon Submission, by Sahil Chopra 2024
-
 import os
 import random
 import time
